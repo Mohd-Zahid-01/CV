@@ -1,0 +1,30 @@
+body{
+  margin:0;
+  padding:0;
+}
+.name{
+  font-style: oblique;
+  /*padding-left: 20px;*/
+  margin: 0 50px;
+}
+h2{
+  margin-left: 50px;
+  font-family: sans-serif;
+  display: block;
+}
+ul{
+  list-style-type: none;
+  line-height: 40px;
+  font-family: serif;
+}
+table{
+  margin-left: 20px;
+}
+td{
+  font-family: cursive;
+}
+hr{
+  border-top: 5px dotted;
+  border-bottom: 0;
+  width: 20%
+}
